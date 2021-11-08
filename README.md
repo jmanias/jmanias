@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-* 💻 I'm a frontend web developer 🇬🇷 🇩🇪
+* 💻 I'm a Fullstack Developer 🇬🇷 🇩🇪
 * 🎓 B.Sc. Business Management & Information Systems
 * 🥷 **Coding is a passion and not profession**
 * 🏀 Basketball never dies
