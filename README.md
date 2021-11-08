@@ -5,17 +5,13 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
-
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+* 💻 I'm a frontend web developer
+* 🎨 I'm a self-taught UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+* 📺 ⚡ Fun fact **Coding is a passion and not profession.**
 
 
 ----
@@ -106,5 +102,6 @@
     <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
+    [![Gmail](https://img.shields.io/badge/-hello@manias.me-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hello@manias.me)
   </div>
 </div>
