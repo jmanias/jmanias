@@ -5,18 +5,17 @@
   </a>
 </h1>
 
-* 💻 I'm a frontend web developer
+* 💻 I'm a frontend web developer 🇬🇷 🇩🇪
 * 🎓 B.Sc. Business Management & Information Systems
-* 🥷 **Coding is a passion and not profession.**
+* 🥷 **Coding is a passion and not profession**
 * 📩 <a href="mailto:hello@manias.me">E-Mail</a>
 * 📸 <a href="https://www.instagram.com/jmanias10" target="_blank">Instagram</a>
 * 🧔 <a href="https://www.linkedin.com/in/jmanias/" target="_blank">LinkedIn</a>
 * 🧑‍🦱 <a href="https://www.xing.com/profile/Ioannis_Manias/cv" target="_blank">Xing</a>
 
-
 ----
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
