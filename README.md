@@ -9,6 +9,7 @@
 * 🎓 B.Sc. Business Management & Information Systems
 * 🥷 **Coding is a passion and not profession**
 * 🏀 Basketball never dies
+* 📌 <a href="https://www.instagram.com/jmanias10" target="_blank">Website</a>
 * 📩 <a href="mailto:hello@manias.me">E-Mail</a>
 * 📸 <a href="https://www.instagram.com/jmanias10" target="_blank">Instagram</a>
 * 🧔 <a href="https://www.linkedin.com/in/jmanias/" target="_blank">LinkedIn</a>
