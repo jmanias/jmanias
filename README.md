@@ -94,4 +94,6 @@
   </a>
 </p>
   
+  ----
+  
   <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" /></p>
