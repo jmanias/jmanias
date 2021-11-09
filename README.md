@@ -93,3 +93,5 @@
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
 </p>
+  
+  <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" /></p>
