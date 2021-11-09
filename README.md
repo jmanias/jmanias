@@ -19,6 +19,9 @@
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
