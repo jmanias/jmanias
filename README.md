@@ -9,10 +9,6 @@
 * 🎓 B.Sc. Business Management & Information Systems
 * 🥷 **Coding is a passion and not profession**
 * 🏀 Basketball never dies
-* 📌 <a href="https://www.manias.me" target="_blank">Website</a>
-* 📩 <a href="mailto:hello@manias.me">E-Mail</a>
-* 🧑‍🦱 <a href="https://www.xing.com/profile/Ioannis_Manias/cv" target="_blank">Xing</a>
-
 ----
 
 <h3 align="center">Tech Stack</h3>
