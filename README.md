@@ -49,6 +49,15 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </p>
+
+----
+
+<h3 align="center">Reach me</h3>
+<p align="center">
   
-  ----
+![Instagram](https://img.shields.io/badge/jmanias10-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+</p>
+  
+----
   <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" /></p>
