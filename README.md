@@ -11,8 +11,6 @@
 * 🏀 Basketball never dies
 * 📌 <a href="https://www.manias.me" target="_blank">Website</a>
 * 📩 <a href="mailto:hello@manias.me">E-Mail</a>
-* 📸 <a href="https://www.instagram.com/jmanias10" target="_blank">Instagram</a>
-* 🧔 <a href="https://www.linkedin.com/in/jmanias/" target="_blank">LinkedIn</a>
 * 🧑‍🦱 <a href="https://www.xing.com/profile/Ioannis_Manias/cv" target="_blank">Xing</a>
 
 ----
@@ -47,6 +45,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 </p>
 
@@ -54,9 +53,13 @@
 
 <h3 align="center">Reach me</h3>
 <p align="center">
-  
-![Instagram](https://img.shields.io/badge/jmanias10-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)
+  
 </p>
   
 ----
