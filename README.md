@@ -70,6 +70,3 @@
   <a href="https://www.manias.me">![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
 
 </div>
-  
-----
-  <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" /></p>
