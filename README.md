@@ -60,7 +60,7 @@
 ----
 
 <h3 align="center">Reach me</h3>
-<div style="text-aling: center">
+<div align="center">
 
   <a href="mailto:hello@manias.me">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://www.instagram.com/jmanias10">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
